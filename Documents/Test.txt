@@ -1,0 +1,8 @@
+Name:Anthony Nambiro
+RegistrationNumber:X
+Marks are:
+,CSS1 88
+CSS2 88
+CSS3 88
+CSS4 88
+CSS5 88

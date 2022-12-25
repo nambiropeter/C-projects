@@ -1,0 +1,10 @@
+Name:Anthony Nambiro
+RegistrationNumber:c
+Marks are:
+,CSS1 66  B
+CSS2 66  B
+CSS3 77  A
+CSS4 88  A
+CSS5 99  A
+CSS6 55  C
+CSS7 44  D

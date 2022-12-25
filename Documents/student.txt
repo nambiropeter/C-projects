@@ -1,0 +1,67 @@
+
+the students details are as follows
+
+	name:tembo
+
+	regno:44
+
+	age:34
+		marks in subject 1 are 33
+		marks in subject 2 are 33
+		marks in subject 3 are 33
+		marks in subject 4 are 33
+		marks in subject 5 are 33
+		marks in subject 6 are 33
+		marks in subject 7 are 33
+
+	name:33
+
+	regno:33
+
+	age:33
+		marks in subject 1 are 33
+		marks in subject 2 are 33
+		marks in subject 3 are 33
+		marks in subject 4 are 33
+		marks in subject 5 are 33
+		marks in subject 6 are 33
+		marks in subject 7 are 33
+
+	name:33
+
+	regno:33
+
+	age:33
+		marks in subject 1 are 33
+		marks in subject 2 are 33
+		marks in subject 3 are 33
+		marks in subject 4 are 33
+		marks in subject 5 are 3
+		marks in subject 6 are 3
+		marks in subject 7 are 3
+
+	name:3
+
+	regno:3
+
+	age:34
+		marks in subject 1 are 4
+		marks in subject 2 are 4
+		marks in subject 3 are 4
+		marks in subject 4 are 4
+		marks in subject 5 are 44
+		marks in subject 6 are 4
+		marks in subject 7 are 4
+
+	name:5
+
+	regno:5
+
+	age:5
+		marks in subject 1 are 5
+		marks in subject 2 are 5
+		marks in subject 3 are 5
+		marks in subject 4 are 5
+		marks in subject 5 are 5
+		marks in subject 6 are 5
+		marks in subject 7 are 5

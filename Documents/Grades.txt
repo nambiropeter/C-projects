@@ -1,0 +1,7 @@
+Name:
+RegistrationNumber:hj
+Marks are:
+,invalid marksCSS2 0
+  Einvalid marksCSS4 0
+  Einvalid marksCSS6 0
+  Einvalid marks
